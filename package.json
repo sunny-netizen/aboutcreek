@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "sunny-netizen.github.io/aboutcreek",
+  "homepage": "https://sunny-netizen.github.io/aboutcreek",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
