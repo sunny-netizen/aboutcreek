@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/aboutcreek/static/css/main.b28a2e27.css",
+    "main.js": "/aboutcreek/static/js/main.7fef0b64.js",
+    "static/js/496.8a7b3b6b.chunk.js": "/aboutcreek/static/js/496.8a7b3b6b.chunk.js",
+    "static/media/SCAGBikeRoutes_20231020.geojson": "/aboutcreek/static/media/SCAGBikeRoutes_20231020.469640d03955ac40fde5.geojson",
+    "static/media/bcw.geojson": "/aboutcreek/static/media/bcw.5aa332114ea2c991a4d5.geojson",
+    "static/media/creekpath.geojson": "/aboutcreek/static/media/creekpath.cb9b2fcdfcfbb7817300.geojson",
+    "static/media/entrances.geojson": "/aboutcreek/static/media/entrances.187c336238e49788e503.geojson",
+    "index.html": "/aboutcreek/index.html",
+    "main.b28a2e27.css.map": "/aboutcreek/static/css/main.b28a2e27.css.map",
+    "main.7fef0b64.js.map": "/aboutcreek/static/js/main.7fef0b64.js.map",
+    "496.8a7b3b6b.chunk.js.map": "/aboutcreek/static/js/496.8a7b3b6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b28a2e27.css",
+    "static/js/main.7fef0b64.js"
+  ]
+}
